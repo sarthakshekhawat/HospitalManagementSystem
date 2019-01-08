@@ -1,0 +1,4 @@
+# Hospital Management System
+HMS is a website which can be used by different groups of the same community (hospital) with different views. We implemented three views in HMS namely patient, doctor and administration.
+Patients have the advantage of maintaining the medical reports much carefully and safely in the database itself. On the other hand, he need not carry the report every time he consults any doctor, he can show his E-Report to the doctor and the doctor can easily inspect him and provide him medication on the basis of the current scenario. Patients can also ask for help from doctors via the messaging portal.
+One of the key features of the HMS is to make an appointment beforehand. Patients can see the vacant slots and can book it and plan accordingly. On the other hand, doctors can see the schedule for the day and also if needed can block certain free slots for appointments if he needs a break.
